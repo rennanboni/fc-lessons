@@ -1,0 +1,10 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background: rgb(211, 206, 206);
+    font-family: sans-serif;
+    color: indigo;
+}
